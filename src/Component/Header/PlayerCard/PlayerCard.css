@@ -1,0 +1,20 @@
+.Card-design img{
+    max-width: 100%;
+    height: 250px;
+}
+
+.age-salary{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Card-design{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 450px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 5px;
+    float: left;
+}

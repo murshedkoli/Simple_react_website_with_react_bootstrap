@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Kane Stuart Williamson",
+    "age": 30,
+    "salary": 45000,
+    "img":"http://t3.gstatic.com/images?q=tbn:ANd9GcQmB92t4barF2rcvyEmeKFAur0vPX3ryYFJL--ZazrFIpEWhrCWj14dCe5Y7C_t"
+  },
+  {
+    "name": "Steven Peter Devereux Smith",
+    "age": 31,
+    "salary": 59000,
+    "img":"https://upload.wikimedia.org/wikipedia/commons/1/1b/STEVE_SMITH_%2811705303043%29.jpg"
+  },
+  {
+    "name": "Joseph Edward Root",
+    "age": 30,
+    "salary": 85000,
+    "img":"https://upload.wikimedia.org/wikipedia/commons/2/2c/HIP1146_%2832217434933%29_%28Joe_Root_cropped%29.jpg"
+  },
+  {
+    "name": "Virat Kohli",
+    "age": 32,
+    "salary": 75000,
+    "img":"https://i.guim.co.uk/img/media/b76d91ded27c0705d0cd97a77cf41d367c62c72b/0_63_1659_995/master/1659.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=5773080a39563c85a2f8c00c247cee05"
+  },
+  {
+    "name": "Mohammad Babar Azam",
+    "age": 26,
+    "salary": 58000,
+    "img":"http://t3.gstatic.com/images?q=tbn:ANd9GcRSUMCVZ_AwfnarTYE4Kj_eHgsF-bFzs7c9FX0-65ZKY6Lrmz6g0Jo2iOqyknuo"
+  },
+  {
+    "name": "Rohit Gurunath Sharma",
+    "age": 33,
+    "salary": 62000,
+    "img":"https://resources.pulse.icc-cricket.com/players/284/107.png"
+  },
+  {
+    "name": "David Andrew Warner",
+    "age": 34,
+    "salary": 40000,
+    "img":"https://upload.wikimedia.org/wikipedia/commons/2/2c/DAVID_WARNER_%2811704782453%29.jpg"
+  },
+  {
+    "name": "Benjamin Andrew Stokes",
+    "age": 30,
+    "salary": 77000,
+    "img":"https://yourdailycricketnews.com/wp-content/uploads/2019/05/Ben-Stokes.v1-370x420.jpg"
+  },
+  {
+    "name": "Rishabh Rajendra Pant",
+    "age": 23,
+    "salary": 65000,
+    "img":"https://i2.wp.com/www.celebinfo.wiki/wp-content/uploads/2020/02/Rishabh-Rajendra-Pant-WikiBiography-Girlfriend-Net-Worth-More-celebinfo.wiki-images.jpg?fit=833%2C1041&ssl=1"
+  },
+  {
+    "name": "Mohammad Rizwan ",
+    "age": 28,
+    "salary": 42000,
+    "img":"https://www.cricket.com.au/-/media/Players/Men/International/Pakistan/Mohammad-Rizwan-ODI17.ashx"
+  },
+  {
+    "name": "Mohammad Mushfiqur Rahim",
+    "age": 33,
+    "salary": 65000,
+    "img":"http://www.crictotal.com/player-images/131.gif"
+  },
+  {
+    "name": "Asad Shafiq ",
+    "age": 35,
+    "salary": 80000,
+    "img":"https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-951375416-e1527089325542.jpg"
+  },
+  {
+    "name": "Tamim Iqbal Khan",
+    "age": 31,
+    "salary": 60000,
+    "img":"http://t2.gstatic.com/images?q=tbn:ANd9GcQxNsVq2juC7g3XiQ4avaKKF3IFGd5ziD1gpARMRFU8dFfLefPU9O3NajEWdsWn"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "age": 33,
+    "salary": 70000,
+    "img":"http://t3.gstatic.com/images?q=tbn:ANd9GcSnn27coD_1wIFzntVYPE0JLeC3nuRD0TBfat56lur6gQbHFdUo0iqfQUj6sUHv"
+  },
+  {
+    "name": "Usman Tariq Khawaja",
+    "age": 34,
+    "salary": 55000,
+    "img":"http://t1.gstatic.com/images?q=tbn:ANd9GcTlRWZbJ1QBX9b2FcNcqs6ai00rmxnTgIpGULulzTQWGy2q6GHKxZ47TAY9eGQvcd"
+  }
+ 
+]

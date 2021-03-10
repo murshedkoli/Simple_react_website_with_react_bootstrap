@@ -1,0 +1,31 @@
+
+.header-class img {
+    height: 100px;
+}
+
+.header-class, .header-class ul {
+    display: flex;
+}
+.header-class {
+    background-color: rgba(0, 0, 0, 0.287);
+}
+.header-class ul li{
+    line-height: 50px;
+    padding-left: 20px;
+    list-style: none;
+ 
+}
+
+.header-class ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.nav{
+width: 70%;
+
+}
+.logo{
+    width: 30%;
+}
