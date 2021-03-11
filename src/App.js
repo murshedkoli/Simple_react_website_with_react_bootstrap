@@ -11,10 +11,10 @@ function App() {
   
   const addPlayer = (player) =>{
    
-    const newTeam = [...team, player];
-    setTeam(newTeam);
-
-    
+       
+       const newTeam = [...team, player];
+      setTeam(newTeam);
+   
   }
 
   useEffect(() => {

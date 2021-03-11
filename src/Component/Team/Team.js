@@ -1,5 +1,6 @@
 import React from 'react';
-import './Team.css'
+import './Team.css';
+import {ListGroup} from 'react-bootstrap';
 
 const Team = (props) => {
     const team = props.team;
@@ -12,12 +13,18 @@ const Team = (props) => {
     }
 
     return (
-        <div>
+        <div className="team">
             <h2>You Added {team.length} Players</h2>
             <h3>Your Total Cost :{totalCost}</h3>
-            <ol>
-                {team.map((player)=><li> <img src={player.img} alt=""/>   {player.name}</li>)}
-            </ol>
+           
+
+            <ListGroup>
+            {team.map((player)=>
+             <ListGroup.Item action ><img src={player.img} alt=""/>  {player.name} </ListGroup.Item>
+             )}
+            </ListGroup>
+
+            
         </div>
     );
 };
